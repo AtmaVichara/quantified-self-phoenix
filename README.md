@@ -1,5 +1,10 @@
 # QuantifiedSelfPhoenix
 
+## Purpose
+This is a RESTful JSON API built with Elixir and Phoenix framework for the purposes of learning and gaining exposure to Elixir and Phoenix.
+
+## Installation
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
